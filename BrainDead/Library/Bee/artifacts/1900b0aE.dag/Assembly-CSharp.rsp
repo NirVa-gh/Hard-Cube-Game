@@ -386,6 +386,7 @@
 "Assets/KKSpeechRecognizer/Example/SpeechRecognitionLanguageDropdown.cs"
 "Assets/KKSpeechRecognizer/SpeechRecognizer.cs"
 "Assets/KKSpeechRecognizer/SpeechRecognizerListener.cs"
+"Assets/MenuManager.cs"
 "Assets/Player/Activate.cs"
 "Assets/Player/ChooseLVL.cs"
 "Assets/Player/Controller.cs"
